@@ -1,1 +1,41 @@
 # VU21CSEN0400010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- {
+    "companyName": "GITAM",
+    "clientID": "5061d796-a82c-4223-b7fb-7ae5fe313847",
+    "clientSecret": "wNxxIGltnplLuktP",
+    "ownerName": "UTTEJ TERLAPU",
+    "ownerEmail": "uterlapu@gitam.com",
+    "rollNo": "VU21CSEN0400010"
+} -->
+
+<!-- MAIN -->
+<!-- {
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzI0NzM2NjA4LCJpYXQiOjE3MjQ3MzYzMDgsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjUwNjFkNzk2LWE4MmMtNDIyMy1iN2ZiLTdhZTVmZTMxMzg0NyIsInN1YiI6InV0ZXJsYXB1QGdpdGFtLmNvbSJ9LCJjb21wYW55TmFtZSI6IkdJVEFNIiwiY2xpZW50SUQiOiI1MDYxZDc5Ni1hODJjLTQyMjMtYjdmYi03YWU1ZmUzMTM4NDciLCJjbGllbnRTZWNyZXQiOiJ3Tnh4SUdsdG5wbEx1a3RQIiwib3duZXJOYW1lIjoiVVRURUogVEVSTEFQVSIsIm93bmVyRW1haWwiOiJ1dGVybGFwdUBnaXRhbS5jb20iLCJyb2xsTm8iOiJWVTIxQ1NFTjA0MDAwMTAifQ.xqqlfr77QQGWqpSSSnC9KVt9uc2KtjNLj70CBRrEarU",
+    "expires_in": 1724736608
+} -->
+
+
+
+
+
+<!-- {
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzI0NzM1MzI2LCJpYXQiOjE3MjQ3MzUwMjYsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImU0ZDQwZDE4LWViMTItNDUyOC04MDBjLTk1ZGRkN2YzNmQwZiIsInN1YiI6InV0dGVqdGVybGFwdUBnbWFpbC5jb20ifSwiY29tcGFueU5hbWUiOiJHSVRBTSIsImNsaWVudElEIjoiZTRkNDBkMTgtZWIxMi00NTI4LTgwMGMtOTVkZGQ3ZjM2ZDBmIiwiY2xpZW50U2VjcmV0IjoieE9OZW50cUZRcU9KZGNiRyIsIm93bmVyTmFtZSI6IlVUVEVKIFRFUkxBUFUiLCJvd25lckVtYWlsIjoidXR0ZWp0ZXJsYXB1QGdtYWlsLmNvbSIsInJvbGxObyI6IlZVMjFDU0VOMDQwMDAxMCJ9.qRSC0gjIeFez7ZHKAaAjpTO2CW8cCPonA5t9ScTY0bY",
+    "expires_in": 1724735326
+} -->
